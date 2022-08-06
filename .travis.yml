@@ -1,3 +1,6 @@
+services:
+  - docker
+
 # Build
 - docker build -t reverseproxy .
 
